@@ -1,5 +1,6 @@
 FROM ubuntu:xenial
 
+MAINTAINER Evan Wies <evan@neomantra.net>
 MAINTAINER Marcin Jasinski <mkjasinski@gmail.com>
 
 ARG RESTY_VERSION="1.11.2.2"
